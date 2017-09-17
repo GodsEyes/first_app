@@ -1,4 +1,4 @@
-#RoR Tut: первое приложение
+# RoR Tut: первое приложение
 
 Это первое приложение для
 [*Ruby on Rails*](http://railstutorial.org/)
